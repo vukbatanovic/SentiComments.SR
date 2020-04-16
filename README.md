@@ -5,12 +5,12 @@ The SentiComments.SR includes the following three corpora:
 - The book verification corpus, consisting of 173 book-related comments.
 
 ## Dataset creation
-The main SentiComments.SR corpus was constructed out of the comments written by visitors on the [kakavfilm.com] movie review website in Serbian.
+The main SentiComments.SR corpus was constructed out of the comments written by visitors on the [kakavfilm.com](http://kakavfilm.com) movie review website in Serbian.
 Each comment was assigned a unique ID based on the movie to which it referred, and its placement in the comment tree for that particular movie, signifying its position within the whole discussion.
 Comments containing more than a predefined upper bound for token count (using basic whitespace tokenization), were discarded, as were the comments not written in Serbian.
 
-The movie verification corpus comments were sourced from two other Serbian movie review websites - [gledajme.rs] and [happynovisad.com].
-The book verification corpus comments were also sourced from the [happynovisad.com] website.
+The movie verification corpus comments were sourced from two other Serbian movie review websites - gledajme.rs and [happynovisad.com](http://www.happynovisad.com).
+The book verification corpus comments were also sourced from the [happynovisad.com](http://www.happynovisad.com) website.
 
 ## Dataset annotation
 Six sentiment labels were used in dataset annotation: +1, -1, +M, -M, +NS, and -NS, with the addition of an 's' suffix to labels denoting the sentiment of a sarcastic text.
