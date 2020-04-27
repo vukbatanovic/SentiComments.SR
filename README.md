@@ -1,5 +1,5 @@
 # SentiComments.SR - A Sentiment Analysis Dataset of Comments in Serbian
-The SentiComments.SR includes the following three corpora:
+The SentiComments.SR dataset includes the following three corpora:
 - The main SentiComments.SR corpus, consisting of 3490 movie-related comments.
 - The movie verification corpus, consisting of 464 movie-related comments.
 - The book verification corpus, consisting of 173 book-related comments.
@@ -45,8 +45,3 @@ TBD.
 
 ## Acknowledgement
 The annotation of the SentiComments.SR dataset was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
-
-## License
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-If you wish to use this dataset in a commercial product, please contact me at: vuk.batanovic / at / student.etf.bg.ac.rs
