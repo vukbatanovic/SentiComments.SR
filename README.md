@@ -41,7 +41,9 @@ Comments in all files are written in either the Serbian Latin or the Serbian Cyr
 All files are encoded in UTF-8.
 
 ## References
-TBD.
+If you wish to use the SentiComments.SR corpus in your paper or project, please cite the following paper:
+
+* **[A versatile framework for resource-limited sentiment articulation, annotation, and analysis of short texts](https://doi.org/10.1371/journal.pone.0242050)**, Vuk Batanović, Miloš Cvetanović, Boško Nikolić, PLoS ONE, 15(11): e0242050 (2020).
 
 ## Acknowledgement
 The annotation of the SentiComments.SR dataset was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
