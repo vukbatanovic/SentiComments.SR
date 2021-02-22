@@ -3,4 +3,4 @@ The SentiComments.SR dataset is licensed under the [Creative Commons Attribution
 
 The entire text of the license can be found [here](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
-If you wish to use this dataset for a commercial product, please contact me at: vuk.batanovic / at / student.etf.bg.ac.rs
+If you wish to use this dataset for a commercial product, please contact me at: vuk.batanovic / at / ic.etf.bg.ac.rs
