@@ -14,7 +14,7 @@ The book verification corpus comments were also sourced from the [happynovisad.c
 
 ## Dataset annotation
 Six sentiment labels were used in dataset annotation: +1, -1, +M, -M, +NS, and -NS, with the addition of an 's' suffix to labels denoting the sentiment of a sarcastic text.
-The annotation principles used to assign sentiment labels to items in SentiComments.SR are described in the paper listed in the References section.
+The annotation principles used to assign sentiment labels to items in SentiComments.SR are described in the papers listed in the References section.
 
 The main SentiComments.SR corpus was annotated by two annotators working together, and therefore contains a single, unified sentiment label for each comment.
 The verification corpora were used to evaluate the quality, efficiency, and cost-effectiveness of the annotation framework, which is why they contain separate sentiment labels for six annotators, divided into three groups - initial group (#1 and #2), experimental group (#3 and #4) and control group (#5 and #6).
@@ -41,9 +41,13 @@ Comments in all files are written in either the Serbian Latin or the Serbian Cyr
 All files are encoded in UTF-8.
 
 ## References
-If you wish to use the SentiComments.SR corpus in your paper or project, please cite the following paper:
+If you wish to use the SentiComments.SR dataset (or the annotation principles applied in its construction) in your paper or project, please cite the following paper:
 
 * **[A versatile framework for resource-limited sentiment articulation, annotation, and analysis of short texts](https://doi.org/10.1371/journal.pone.0242050)**, Vuk Batanović, Miloš Cvetanović, Boško Nikolić, PLoS ONE, 15(11): e0242050 (2020).
+
+The reference for the full annotation guidelines (in Serbian) is the following:
+
+* **[A methodology for solving semantic tasks in the processing of short texts written in natural languages with limited resources](https://nardus.mpn.gov.rs/handle/123456789/17783)**, Vuk Batanović, PhD thesis, University of Belgrade - School of Electrical Engineering (2020).
 
 ## Acknowledgement
 The annotation of the SentiComments.SR dataset was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
