@@ -47,3 +47,8 @@ If you wish to use the SentiComments.SR corpus in your paper or project, please 
 
 ## Acknowledgement
 The annotation of the SentiComments.SR dataset was supported by the [Regional Linguistic Data Initiative](http://reldi.spur.uzh.ch/) (*ReLDI*) via the Swiss National Science Foundation grant no. 160501.
+
+## License
+The SentiComments.SR dataset is available under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/) license. The entire text of the license can be found [here](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+If you wish to use this dataset for a commercial product, please contact me at: vuk.batanovic / at / ic.etf.bg.ac.rs
