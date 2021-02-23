@@ -1,8 +1,8 @@
 # SentiComments.SR - A Sentiment Analysis Dataset of Comments in Serbian
 The SentiComments.SR dataset includes the following three corpora:
-- The main SentiComments.SR corpus, consisting of 3490 movie-related comments.
-- The movie verification corpus, consisting of 464 movie-related comments.
-- The book verification corpus, consisting of 173 book-related comments.
+- The main SentiComments.SR corpus, consisting of 3490 movie-related comments
+- The movie verification corpus, consisting of 464 movie-related comments
+- The book verification corpus, consisting of 173 book-related comments
 
 ## Dataset creation
 The main SentiComments.SR corpus was constructed out of the comments written by visitors on the [kakavfilm.com](http://kakavfilm.com) movie review website in Serbian.
