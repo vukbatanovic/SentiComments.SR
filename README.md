@@ -13,7 +13,7 @@ The movie verification corpus comments were sourced from two other Serbian movie
 The book verification corpus comments were also sourced from the [happynovisad.com](http://www.happynovisad.com) website.
 
 ## Dataset annotation
-Six sentiment labels were used in dataset annotation: +1, -1, +M, -M, +NS, and -NS, with the addition of an 's' suffix to labels denoting the sentiment of a sarcastic text.
+Six sentiment labels were used in dataset annotation: +1, -1, +M, -M, +NS, and -NS, with the addition of an 's' label suffix denoting the presence of sarcasm.
 The annotation principles used to assign sentiment labels to items in SentiComments.SR are described in the papers listed in the References section.
 
 The main SentiComments.SR corpus was annotated by two annotators working together, and therefore contains a single, unified sentiment label for each comment.
