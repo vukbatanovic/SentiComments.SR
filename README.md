@@ -40,6 +40,18 @@ The column structure of the verification corpora files is as follows:
 Comments in all files are written in either the Serbian Latin or the Serbian Cyrillic script.
 All files are encoded in UTF-8.
 
+## Programming code
+The code necessary to reproduce the evaluation experiments is available in the **experimenter** Python files.
+The **trainer_bertic.py** Python script produces the best-performing BERTić LLM fine-tuned for sentiment classification on this dataset.
+The **tester_bertic.py** Python script presents an example of using fine-tuned variants of BERTić to predict sentiment labels on new texts.
+
+## Fine-tuned LLMs
+Four variants of the best-performing LLM on this task, BERTić, are available on HuggingFace:
+- [BERTić fine-tuned for polarity detection](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-polarity)
+- [BERTić fine-tuned for subjectivity detection](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-subjectivity)
+- [BERTić fine-tuned for four-way sentiment classification](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-fourway)
+- [BERTić fine-tuned for six-way sentiment classification](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-sixway)
+
 ## References
 If you wish to use the SentiComments.SR dataset (or the annotation principles applied in its construction) in your paper or project, please cite the following paper:
 
