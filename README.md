@@ -46,7 +46,7 @@ The **trainer_bertic.py** Python script produces the best-performing BERTić LLM
 The **tester_bertic.py** Python script presents an example of using fine-tuned variants of BERTić to predict sentiment labels on new texts.
 
 ## Fine-tuned LLMs
-Four variants of the best-performing LLM on this task, BERTić, are available on HuggingFace:
+Four variants of the best-performing LLM on this task, BERTić, fine-tuned for five epochs on the SentiComments.SR dataset, are available on HuggingFace:
 - [BERTić fine-tuned for polarity detection](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-polarity)
 - [BERTić fine-tuned for subjectivity detection](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-subjectivity)
 - [BERTić fine-tuned for four-way sentiment classification](https://huggingface.co/ICEF-NLP/bcms-bertic-senticomments-sr-fourway)
